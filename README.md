@@ -16,7 +16,6 @@ A simple URL shortening service built with Node.js, Express, MongoDB, and EJS. T
 - MongoDB (installed and running locally)
 
 ### Installation
-This application allows users to shorten long URLs for easier sharing. Built with Node.js and Express for the backend, it uses MongoDB to store and manage URL mappings. EJS (Embedded JavaScript) is employed for server-side rendering of the user interface.
 
 - Node.js: Provides the runtime environment for the server-side logic.
 - Express: Handles HTTP requests and responses, routing, and middleware.
